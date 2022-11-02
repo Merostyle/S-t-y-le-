@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+
+.titulo-1 {
+    color: aquamarine;
+    background-color: black;
+    font-size: 3rem;
+
+
+}
